@@ -4,13 +4,14 @@
 }
 
 p {
-    background-color: #34495E ;
-    border-radius: 20px ;
+    background-color: #34495E;
+    border-radius: 20px;
     padding: 21px;
     margin: 15px 5px 5px 25px;
     color: antiquewhite;
 }
+
 h1 {
-    padding: 25px;
+    padding: 21px;
     background-color: grey;
 }
