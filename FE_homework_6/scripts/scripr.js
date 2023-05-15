@@ -2,7 +2,7 @@
 //Решить следующие задачи:
 console.log( ` #1 Напишите цикл for, который выводит консоль каждое второе число от 0 до 10 :`)
 arrEven =[]
-for (let i = 0; i < 10; i+=2) arrEven.push(i)    
+for (let i = 1; i < 10; i+=2) arrEven.push(i)    
 console.log(arrEven);
 console.log( `==========================================`)
 
